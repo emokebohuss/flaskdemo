@@ -1,13 +1,23 @@
 body {
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
     margin: 0;
+    background-color: antiquewhite;
 }
 
 #nav, #footer {
     background-color: #eee;
     padding: 1em;
+    background-color: darkolivegreen;
+    color: #eeeeee;
+    font-weight: bolder;
 }
 
 #content {
     margin-left: 3em;
+}
+
+#submit {
+    background-color: darkolivegreen;
+    color: #eeeeee;
+    font-weight: bold;
 }
